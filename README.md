@@ -1,24 +1,34 @@
 ## STM32-Embedded-Networking-IoT-Frimware-Updates.
 
 ## 1. Embedded Networking, IoT & Frimware Updates
+Bootloader:
 https://github.com/jeremynguyenn/Design-and-develop-bootloader-from-the-build-process-to-the-memory-model-for-STM32-microcontrollers.git
 
+FOTA/OTA between stm32 and esp8266:
 https://github.com/jeremynguyenn/Embedded-Wireless-Firmware-Updates-Firmware-Over-the-Air-FOTA-using-Wifi-esp8266-with-STM32.git
 
+Ethernet STM32 and W5500 firmware
 https://github.com/jeremynguyenn/Build-firmware-updates-systems-over-ethernet-using-STM32-and-the-W5500-Offload-Ethernet-module.git
 
+IoT solution Ethernet with STM32 in HTTP and Server Side Technologies
 https://github.com/jeremynguyenn/Build-ethernet-driver-End-to-End-IoT-Solutions-with-Ethernet-HTTP-and-Server-Side-Technologies-STM32.git
 
+External Module Ethernet STM32 High Performance Networking:
 https://github.com/jeremynguyenn/Optimized-Embedded-Ethernet-High-Performance-Networking-with-External-Modules.git
 
+MQTT Ethernet driver using W5500 module and STM32:
 https://github.com/jeremynguyenn/Build-driver-Ethernet-based-MQTT-using-the-W5500-Ethernet-module-and-STM32-microcontrollers..git
 
+Embedded-Ethernet-Firmware-TCP-UDP-HTTP-SSI-CGI:
 https://github.com/jeremynguyenn/Build-Embedded-Ethernet-Firmware-TCP-UDP-HTTP-SSI-CGI.git
 
+Wifi firmware driver interfacing communication between ESP8266 and STM32 
 https://github.com/jeremynguyenn/Embedded-WIFI-for-interfacing-the-ESP8266-chip-to-the-STM32-microcontroller-drivers.git
 
+Bluetooth firmware driver communication between STM32 and SPBTLE-RF  BLE X-NUCLEO module
 https://github.com/jeremynguyenn/Embedded-Build-own-BLE-Firmware-enabled-embedded-devices.git
 
+develop a library for connecting to the cellular network using STM32  and the A6 GSM/GPRS chip
 https://github.com/jeremynguyenn/Embedded-Systems-Cellular-Firmware-Development-GSM.git
 
 
@@ -28,7 +38,9 @@ https://github.com/jeremynguyenn/Embedded-Systems-Cellular-Firmware-Development-
 -FreeRTOS: https://github.com/jeremynguyenn/Embedded_Build_Driver_FREERTOS_for_STM32.git
 
 ## 3. Automotive and Industrial Communication Protocols
+Driver CAN using STM32
 https://github.com/jeremynguyenn/STM32-CANBus-DriverRegister.git
 
+PCB CAN +CAMERA in STM32 
 https://github.com/jeremynguyenn/Embedded-Project-STM32-CAMERA-using-CAN-protocol.git
 
