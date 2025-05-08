@@ -31,16 +31,15 @@ https://github.com/jeremynguyenn/Embedded-Build-own-BLE-Firmware-enabled-embedde
 develop a library for connecting to the cellular network using STM32  and the A6 GSM/GPRS chip
 https://github.com/jeremynguyenn/Embedded-Systems-Cellular-Firmware-Development-GSM.git
 
-
-## 2. Real-Time Operating Systems (RTOS) and FreeRTOS
--RTOS: https://github.com/jeremynguyenn/Embedded_RTOS_STM32_register_development.git
-
--FreeRTOS: https://github.com/jeremynguyenn/Embedded_Build_Driver_FREERTOS_for_STM32.git
-
-## 3. Automotive and Industrial Communication Protocols
+## 2. CAN Automotive and Industrial Communication Protocols
 Driver CAN using STM32
 https://github.com/jeremynguyenn/STM32-CANBus-DriverRegister.git
 
 PCB CAN +CAMERA in STM32 
 https://github.com/jeremynguyenn/Embedded-Project-STM32-CAMERA-using-CAN-protocol.git
+
+## 3. Real-Time Operating Systems (RTOS) and FreeRTOS
+-RTOS: https://github.com/jeremynguyenn/Embedded_RTOS_STM32_register_development.git
+
+-FreeRTOS: https://github.com/jeremynguyenn/Embedded_Build_Driver_FREERTOS_for_STM32.git
 
