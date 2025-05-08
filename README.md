@@ -24,7 +24,7 @@ https://github.com/jeremynguyenn/Embedded-Systems-Cellular-Firmware-Development-
 
 ## 2. Real-Time Operating Systems (RTOS) and FreeRTOS
 -RTOS: https://github.com/jeremynguyenn/Embedded_RTOS_STM32_register_development.git
-FreeRTOS: https://github.com/jeremynguyenn/Embedded_Build_Driver_FREERTOS_for_STM32.git
+-FreeRTOS: https://github.com/jeremynguyenn/Embedded_Build_Driver_FREERTOS_for_STM32.git
 
 ## 3. Automotive and Industrial Communication Protocols
 https://github.com/jeremynguyenn/STM32-CANBus-DriverRegister.git
