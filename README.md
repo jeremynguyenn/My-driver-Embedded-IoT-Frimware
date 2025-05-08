@@ -29,5 +29,6 @@ https://github.com/jeremynguyenn/Embedded-Systems-Cellular-Firmware-Development-
 
 ## 3. Automotive and Industrial Communication Protocols
 https://github.com/jeremynguyenn/STM32-CANBus-DriverRegister.git
+
 https://github.com/jeremynguyenn/Embedded-Project-STM32-CAMERA-using-CAN-protocol.git
 
