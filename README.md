@@ -1,4 +1,4 @@
-## STM32-Embedded-Networking-IoT-Frimware-Updates.
+## STM32-Embedded-Networking-IoT-Frimware-Updates using register programinng code for all 
 
 ## 1. Embedded Networking, IoT & Frimware (BLE, WIFI, SIM A6 GSM/GPRS chip, ZigBee, MQTT, CAN)
 Bootloader:
