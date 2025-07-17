@@ -31,15 +31,19 @@ https://github.com/jeremynguyenn/Embedded-Build-own-BLE-Firmware-enabled-embedde
 develop a library for connecting to the cellular network using STM32  and the A6 GSM/GPRS chip using register programinng code
 https://github.com/jeremynguyenn/Embedded-Systems-Cellular-Firmware-Development-GSM.git
 
-## 2. CAN Automotive and Industrial Communication Protocols
+## 2. CAN Automotive and Industrial Communication Protocols ow-level code for device registers for microcontroller platforms****
 Driver CAN  using STM32 register programinng code 
 https://github.com/jeremynguyenn/STM32-CANBus-DriverRegister.git
 
 PCB CAMERA + CAN in STM32 
 https://github.com/jeremynguyenn/Embedded-Project-STM32-CAMERA-using-CAN-protocol.git
 
-## 3. Real-Time Operating Systems (RTOS) and FreeRTOS
+## 3. Real-Time Operating Systems (RTOS) and FreeRTOS ow-level code for device registers for microcontroller platforms
 -RTOS: https://github.com/jeremynguyenn/Embedded_RTOS_STM32_register_development.git
 
 -FreeRTOS: https://github.com/jeremynguyenn/Embedded_Build_Driver_FREERTOS_for_STM32.git
+
+
+## 4. Memory and Storage in Embedded Systems ow-level code for device registers for microcontroller platforms
+
 
