@@ -7,7 +7,7 @@ https://github.com/jeremynguyenn/Design-and-develop-bootloader-from-the-build-pr
 FOTA/OTA between stm32 and esp8266 using register programinng code:
 https://github.com/jeremynguyenn/Embedded-Wireless-Firmware-Updates-Firmware-Over-the-Air-FOTA-using-Wifi-esp8266-with-STM32.git
 
-Ethernet STM32 and W5500 firmware using register programinng code
+Mastering Firmware Updates over Ethernet Downloading and Flashing Firmware Updates over Ethernet, Ethernet STM32 and W5500 firmware using register programinng code 
 https://github.com/jeremynguyenn/Build-firmware-updates-systems-over-ethernet-using-STM32-and-the-W5500-Offload-Ethernet-module.git
 
 Ethernet IoT Architecture: From Firmware to Full Stack Web, IoT solution Ethernet with STM32 in HTTP and Server Side Technologies using register programinng code
