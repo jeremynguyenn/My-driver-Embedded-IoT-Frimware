@@ -10,7 +10,7 @@ https://github.com/jeremynguyenn/Embedded-Wireless-Firmware-Updates-Firmware-Ove
 Ethernet STM32 and W5500 firmware using register programinng code
 https://github.com/jeremynguyenn/Build-firmware-updates-systems-over-ethernet-using-STM32-and-the-W5500-Offload-Ethernet-module.git
 
-IoT solution Ethernet with STM32 in HTTP and Server Side Technologies using register programinng code
+Ethernet IoT Architecture: From Firmware to Full Stack Web, IoT solution Ethernet with STM32 in HTTP and Server Side Technologies using register programinng code
 https://github.com/jeremynguyenn/Build-ethernet-driver-End-to-End-IoT-Solutions-with-Ethernet-HTTP-and-Server-Side-Technologies-STM32.git
 
 External Module Ethernet STM32 High Performance Networking using register programinng code:
