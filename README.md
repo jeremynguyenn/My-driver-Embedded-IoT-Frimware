@@ -44,6 +44,7 @@ https://github.com/jeremynguyenn/Embedded-Project-STM32-CAMERA-using-CAN-protoco
 -FreeRTOS: https://github.com/jeremynguyenn/Embedded_Build_Driver_FREERTOS_for_STM32.git
 
 
-## 4. Memory and Storage in Embedded Systems ow-level code for device registers for microcontroller platforms
-
+## 4. Memory and Storage in Embedded Systems and Embedded Systems Cryptography & Encryption low-level code for device registers for microcontroller platforms
+- implementing encryption and cryptographic protocols in microcontrollers using register programinng code 
+https://github.com/jeremynguyenn/Embedded-Systems-Encryption-and-Cryptography-STM32-register-.git
 
