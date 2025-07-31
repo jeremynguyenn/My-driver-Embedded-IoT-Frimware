@@ -1,4 +1,4 @@
-## STM32-Embedded-Networking-IoT-Frimware-Updates using low-level code for device registers for microcontroller platforms
+## STM32-Embedded-Networking-IoT-Firmware bare mentals using low-level code for device registers for microcontroller platforms
 
 ## 1. Embedded Networking, IoT & Frimware (BLE, WIFI, SIM A6 GSM/GPRS chip, ZigBee, MQTT, CAN)
 Bootloader using register programinng code:
@@ -31,7 +31,7 @@ https://github.com/jeremynguyenn/Embedded-Build-own-BLE-Firmware-enabled-embedde
 develop a library for connecting to the cellular network using STM32  and the A6 GSM/GPRS chip using register programinng code
 https://github.com/jeremynguyenn/Embedded-Systems-Cellular-Firmware-Development-GSM.git
 
-## 2. CAN Automotive and Industrial Communication Protocols ow-level code for device registers for microcontroller platforms****
+## 2. CAN Automotive and Industrial Communication Protocols low-level code for device registers for microcontroller platforms****
 Driver CAN  using STM32 register programinng code 
 https://github.com/jeremynguyenn/STM32-CANBus-DriverRegister.git
 
@@ -47,4 +47,7 @@ https://github.com/jeremynguyenn/Embedded-Project-STM32-CAMERA-using-CAN-protoco
 ## 4. Memory and Storage in Embedded Systems and Embedded Systems Cryptography & Encryption low-level code for device registers for microcontroller platforms
 - implementing encryption and cryptographic protocols in microcontrollers using register programinng code 
 https://github.com/jeremynguyenn/Embedded-Systems-Encryption-and-Cryptography-STM32-register-.git
+
+
+## 5. Sensors and Embedded Sensing Technologies low-level code for device registers for microcontroller platforms
 
