@@ -62,3 +62,7 @@ https://github.com/jeremynguyenn/Embedded-Systems-Encryption-and-Cryptography-ST
 - Development Driver using device register for more MPU such as MPU6050, MPU9250, IMU, ADXL, Gy86, GY87 and more
   
       + ADXL345: https://github.com/jeremynguyenn/Embedded_ADXL345_sensor_STM32_Driver_development.git
+
+- Development Driver for A Comprehensive Guide to Health Tracking Watch using register code for microcontroller
+
+      + https://github.com/jeremynguyenn/Embedded-Development-Health-Tracking-Watch-coding-by-register-STM32.git
