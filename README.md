@@ -55,6 +55,6 @@ https://github.com/jeremynguyenn/Embedded-Systems-Encryption-and-Cryptography-ST
 
 - Development Driver for Environment Sensing using  device registers code for microcontrller:
 
-- Development Driver using device register for more MPU such as MPU6050, MPU5090, IMU, ADXL, Gy86, GY87 and more
+- Development Driver using device register for more MPU such as MPU6050, MPU9250, IMU, ADXL, Gy86, GY87 and more
   
       + ADXL345: https://github.com/jeremynguyenn/Embedded_ADXL345_sensor_STM32_Driver_development.git
