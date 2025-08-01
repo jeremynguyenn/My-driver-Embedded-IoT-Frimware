@@ -51,9 +51,13 @@ https://github.com/jeremynguyenn/Embedded-Systems-Encryption-and-Cryptography-ST
 
 ## 5. Sensors and Embedded Sensing Technologies low-level code for device registers for microcontroller platforms
 
-- Development Driver for  Rader sensor and distance Sensor using register code for microcontroller:
+- Development Driver for  Rader sensor and distance Sensor using register code for microcontroller
 
-- Development Driver for Environment Sensing using  device registers code for microcontrller:
+      + LD2410andVL53L1X: https://github.com/jeremynguyenn/Embedded-Driver-for-Radar-sensor-and-Distance-Sensor.git
+
+- Development Driver for Environment Sensing using  device registers code for microcontrller
+  
+      +
 
 - Development Driver using device register for more MPU such as MPU6050, MPU9250, IMU, ADXL, Gy86, GY87 and more
   
