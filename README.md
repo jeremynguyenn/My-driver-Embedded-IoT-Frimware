@@ -31,7 +31,7 @@ https://github.com/jeremynguyenn/Embedded-Build-own-BLE-Firmware-enabled-embedde
 develop a library for connecting to the cellular network using STM32  and the A6 GSM/GPRS chip using register programinng code
 https://github.com/jeremynguyenn/Embedded-Systems-Cellular-Firmware-Development-GSM.git
 
-## 2. CAN Automotive and Industrial Communication Protocols low-level code for device registers for microcontroller platforms****
+## 2. CAN Automotive and Industrial Communication Protocols low-level code for device registers for microcontroller platforms
 Driver CAN  using STM32 register programinng code 
 https://github.com/jeremynguyenn/STM32-CANBus-DriverRegister.git
 
