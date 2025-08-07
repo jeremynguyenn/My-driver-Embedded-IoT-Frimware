@@ -1,6 +1,6 @@
 ## STM32-Embedded-Networking-IoT-Firmware bare mentals using low-level code for device registers for microcontroller platforms
 
-## 1. Embedded Networking, IoT & Frimware (BLE, WIFI, SIM A6 GSM/GPRS chip, ZigBee, MQTT, CAN)
+## 1. Embedded Networking, IoT & Frimware (BLE, WIFI, SIM A6 GSM/GPRS chip, ZigBee, MQTT, CAN, Ethernet Firmware)
 Bootloader using register programinng code:
 https://github.com/jeremynguyenn/Design-and-develop-bootloader-from-the-build-process-to-the-memory-model-for-STM32-microcontrollers.git
 
