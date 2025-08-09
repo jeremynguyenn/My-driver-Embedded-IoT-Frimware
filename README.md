@@ -48,6 +48,12 @@ https://github.com/jeremynguyenn/Embedded-Project-STM32-CAMERA-using-CAN-protoco
 - implementing encryption and cryptographic protocols in microcontrollers using register programinng code 
 https://github.com/jeremynguyenn/Embedded-Systems-Encryption-and-Cryptography-STM32-register-.git
 
+- build resilient systems that can withstand power interruptions without compromising data integrity
+https://github.com/jeremynguyenn/Development-Driver-Power-Smart-EEPROM-Backup-with-STM32-Voltage-Detector.git
+
+- implement memory storage systems and troubleshoot common issues in flash memory and EEPROM drivers for microcontrollers
+https://github.com/jeremynguyenn/STM32-Flash-Memory-and-EEPROM-Drivers-.git
+
 
 ## 5. Sensors and Embedded Sensing Technologies low-level code for device registers for microcontroller platforms
 
